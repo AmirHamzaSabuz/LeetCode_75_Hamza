@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		D_01_02_724_Find_Pivot_Index.cs = D_01_02_724_Find_Pivot_Index.cs
 		D_02_01_205_Isomorphic_Strings.cs = D_02_01_205_Isomorphic_Strings.cs
 		D_02_02_392_Is_Subsequence.cs = D_02_02_392_Is_Subsequence.cs
+		D_03_01_21_Merge_Two_Sorted_Lists.cs = D_03_01_21_Merge_Two_Sorted_Lists.cs
 	EndProjectSection
 EndProject
 Global
