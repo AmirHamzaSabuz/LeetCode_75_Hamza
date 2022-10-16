@@ -16,6 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		D_05_01_121_ Best_Time_to_Buy_and_Sell_Stock.cs = D_05_01_121_ Best_Time_to_Buy_and_Sell_Stock.cs
 		D_05_02_409_Longest_Palindrome.cs = D_05_02_409_Longest_Palindrome.cs
 		D_06_01_589_N-ary_Tree_Preorder_Traversal.cs = D_06_01_589_N-ary_Tree_Preorder_Traversal.cs
+		Test_0001_Two_Sum.cs = Test_0001_Two_Sum.cs
 	EndProjectSection
 EndProject
 Global
