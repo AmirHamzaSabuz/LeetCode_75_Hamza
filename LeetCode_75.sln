@@ -7,6 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		D_01_01_1480_Running_Sum_of_1d_Array.cs = D_01_01_1480_Running_Sum_of_1d_Array.cs
 		D_01_02_724_Find_Pivot_Index.cs = D_01_02_724_Find_Pivot_Index.cs
+		D_02_01_205_Isomorphic_Strings.cs = D_02_01_205_Isomorphic_Strings.cs
 	EndProjectSection
 EndProject
 Global
