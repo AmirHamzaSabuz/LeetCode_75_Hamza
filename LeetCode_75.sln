@@ -12,6 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		D_03_01_21_Merge_Two_Sorted_Lists.cs = D_03_01_21_Merge_Two_Sorted_Lists.cs
 		D_03_02_206_Reverse_Linked_List.cs = D_03_02_206_Reverse_Linked_List.cs
 		D_04_01_876_Middle_of_the_Linked_List.cs = D_04_01_876_Middle_of_the_Linked_List.cs
+		D_04_02_142_Linked_List_Cycle_II.cs = D_04_02_142_Linked_List_Cycle_II.cs
 	EndProjectSection
 EndProject
 Global
