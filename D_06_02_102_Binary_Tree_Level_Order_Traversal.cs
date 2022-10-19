@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class D_06_02_102._Binary_Tree_Level_Order_Traversal
+public class D_06_02_102_Binary_Tree_Level_Order_Traversal
 {
     public IList<IList<int>> LevelOrder(TreeNode root)
     {
@@ -34,15 +34,12 @@ public class D_06_02_102._Binary_Tree_Level_Order_Traversal
 
 /*
  102. Binary Tree Level Order Traversal
-
 Input: root = [3,9,20,null,null,15,7]
 Output: [[3],[9,20],[15,7]]
 Example 2:
-
 Input: root = [1]
 Output: [[1]]
 Example 3:
-
 Input: root = []
 Output: []
  */

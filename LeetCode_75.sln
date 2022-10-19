@@ -15,9 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		D_04_02_142_Linked_List_Cycle_II.cs = D_04_02_142_Linked_List_Cycle_II.cs
 		D_05_01_121_ Best_Time_to_Buy_and_Sell_Stock.cs = D_05_01_121_ Best_Time_to_Buy_and_Sell_Stock.cs
 		D_05_02_409_Longest_Palindrome.cs = D_05_02_409_Longest_Palindrome.cs
-		D_06_01_589_N-ary_Tree_Preorder_Traversal.cs = D_06_01_589_N-ary_Tree_Preorder_Traversal.cs
-		D_06_02_102._Binary_Tree_Level_Order_Traversal.cs = D_06_02_102._Binary_Tree_Level_Order_Traversal.cs
+		D_06_01_589_N_ary_Tree_Preorder_Traversal.cs = D_06_01_589_N_ary_Tree_Preorder_Traversal.cs
 		D_07_01_704_Binary_Search.cs = D_07_01_704_Binary_Search.cs
+		D_06_02_102_Binary_Tree_Level_Order_Traversal.cs = D_06_02_102_Binary_Tree_Level_Order_Traversal.cs
+		D_07_02_278_First_Bad_Version.cs = D_07_02_278_First_Bad_Version.cs
 		Test_0001_Two_Sum.cs = Test_0001_Two_Sum.cs
 	EndProjectSection
 EndProject

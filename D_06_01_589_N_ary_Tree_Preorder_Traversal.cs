@@ -1,6 +1,5 @@
 ﻿using System;
-
-public class D_06_01_589_N-ary_Tree_Preorder_Traversal
+public class D_06_01_589_N_ary_Tree_Preorder_Traversal
 {
     public IList<int> Preorder(Node root)
     {

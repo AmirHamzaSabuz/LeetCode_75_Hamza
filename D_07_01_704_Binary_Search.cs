@@ -9,7 +9,9 @@ public class D_07_01_704_Binary_Search
 
         while (left <= right)
         {
-            int mid = (left + right) / 2;
+            int mid = left + ((right-left) / 2);
+            // int mid = left + (right-left) / 2;
+            // int mid = (left + right) / 2 // don't write this.because time limit exceeds
             if (nums[mid] == target)
             {
                 return mid;
