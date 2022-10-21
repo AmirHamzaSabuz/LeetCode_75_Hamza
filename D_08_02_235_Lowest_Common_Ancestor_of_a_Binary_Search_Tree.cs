@@ -36,7 +36,7 @@ public class BinaryTree
 {
     public TreeNode root;
 
-    //Function to find LCA of n1 and n2.
+    //Function to find LCA of p and q.
     //The function assumes that both
     //p and q are present in BST 
     public TreeNode LowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q)
