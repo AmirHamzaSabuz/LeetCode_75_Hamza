@@ -16,13 +16,26 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		D_05_01_121_ Best_Time_to_Buy_and_Sell_Stock.cs = D_05_01_121_ Best_Time_to_Buy_and_Sell_Stock.cs
 		D_05_02_409_Longest_Palindrome.cs = D_05_02_409_Longest_Palindrome.cs
 		D_06_01_589_N_ary_Tree_Preorder_Traversal.cs = D_06_01_589_N_ary_Tree_Preorder_Traversal.cs
-		D_07_01_704_Binary_Search.cs = D_07_01_704_Binary_Search.cs
 		D_06_02_102_Binary_Tree_Level_Order_Traversal.cs = D_06_02_102_Binary_Tree_Level_Order_Traversal.cs
+		D_07_01_704_Binary_Search.cs = D_07_01_704_Binary_Search.cs
 		D_07_02_278_First_Bad_Version.cs = D_07_02_278_First_Bad_Version.cs
+		D_08_01_98_Validate_Binary_Search_Tree.cs = D_08_01_98_Validate_Binary_Search_Tree.cs
 		Test_0001_Two_Sum.cs = Test_0001_Two_Sum.cs
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validate_Binary_Search", "Validate_Binary_Search\Validate_Binary_Search.csproj", "{D2D0A4DA-850A-48B0-A98B-F81E7821B8B2}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2D0A4DA-850A-48B0-A98B-F81E7821B8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D0A4DA-850A-48B0-A98B-F81E7821B8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D0A4DA-850A-48B0-A98B-F81E7821B8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D0A4DA-850A-48B0-A98B-F81E7821B8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
