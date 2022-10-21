@@ -23,7 +23,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Test_0001_Two_Sum.cs = Test_0001_Two_Sum.cs
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validate_Binary_Search", "Validate_Binary_Search\Validate_Binary_Search.csproj", "{D2D0A4DA-850A-48B0-A98B-F81E7821B8B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lowest Common Ancestor of a Binary Search Tree", "Lowest Common Ancestor of a Binary Search Tree\Lowest Common Ancestor of a Binary Search Tree.csproj", "{B342365D-FA77-45D4-831A-1B976CFCDFB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,13 +31,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D2D0A4DA-850A-48B0-A98B-F81E7821B8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D2D0A4DA-850A-48B0-A98B-F81E7821B8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D2D0A4DA-850A-48B0-A98B-F81E7821B8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D2D0A4DA-850A-48B0-A98B-F81E7821B8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B342365D-FA77-45D4-831A-1B976CFCDFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B342365D-FA77-45D4-831A-1B976CFCDFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B342365D-FA77-45D4-831A-1B976CFCDFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B342365D-FA77-45D4-831A-1B976CFCDFB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B342365D-FA77-45D4-831A-1B976CFCDFB0} = {1901A018-317F-4EF4-8F49-AF77BBACA124}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6C493B16-D4B7-41FB-BEE7-8605BADCFE2B}
