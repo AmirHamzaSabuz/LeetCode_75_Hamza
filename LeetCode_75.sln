@@ -24,6 +24,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		D_09_01_733_ Flood Fill.cs = D_09_01_733_ Flood Fill.cs
 		D_09_02_200_Number_of_Islands.cs = D_09_02_200_Number_of_Islands.cs
 		D_10_01_509_Fibonacci_Number.cs = D_10_01_509_Fibonacci_Number.cs
+		D_10_02_70_Climbing_Stairs.cs = D_10_02_70_Climbing_Stairs.cs
 		Test_0001_Two_Sum.cs = Test_0001_Two_Sum.cs
 	EndProjectSection
 EndProject
