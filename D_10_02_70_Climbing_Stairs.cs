@@ -2,6 +2,30 @@
 
 public class D_10_02_70_Climbing_Stairs
 {
+	
+	int Fib(int n)
+    {
+        if (n == 0) return 0;
+        if (n == 1) return 1;
+        int[] FibArray = new int[n + 1];
+        FibArray[0] = 0;
+        FibArray[1] = 1;
+        int Result = 0;
+        for (int i = 2; i <= n; i++)
+        {
+            FibArray[i] = FibArray[i - 1] + FibArray[i - 2];
+            Result = FibArray[i];
+
+        }
+        return Result;
+    }
+    
+    public int ClimbStairs(int n)
+    {
+        return Fib( n+1);
+    }
+	
+	/*
     public int ClimbStairs(int n)
     {
         if (n == 0) return 0;
@@ -18,6 +42,7 @@ public class D_10_02_70_Climbing_Stairs
         }
         return Result;
     }
+	*/
 
     /*
     public int ClimbStairs(int n)
