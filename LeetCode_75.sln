@@ -29,6 +29,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		D_11_02_62_Unique_Paths.cs = D_11_02_62_Unique_Paths.cs
 		D_12_01_438_Find_All_Anagrams_in_a_String.cs = D_12_01_438_Find_All_Anagrams_in_a_String.cs
 		Test_0001_Two_Sum.cs = Test_0001_Two_Sum.cs
+		D_12_02_424_Longest_Repeating_Character_Replacement.cs = D_12_02_424_Longest_Repeating_Character_Replacement.cs
 	EndProjectSection
 EndProject
 Global
