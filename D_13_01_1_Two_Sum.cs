@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Test_0001_Two_Sum
+public class D_13_01_1_Two_Sum
 {
     public int[] TwoSum(int[] nums, int target)
     {
