@@ -31,6 +31,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		D_12_02_424_Longest_Repeating_Character_Replacement.cs = D_12_02_424_Longest_Repeating_Character_Replacement.cs
 		D_13_01_1_Two_Sum.cs = D_13_01_1_Two_Sum.cs
 		D_13_02_299_Bulls_and_Cows.cs = D_13_02_299_Bulls_and_Cows.cs
+		D_14_01_844_ Backspace_String_Compare.cs = D_14_01_844_ Backspace_String_Compare.cs
 	EndProjectSection
 EndProject
 Global
