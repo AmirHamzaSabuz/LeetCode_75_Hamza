@@ -32,6 +32,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		D_13_01_1_Two_Sum.cs = D_13_01_1_Two_Sum.cs
 		D_13_02_299_Bulls_and_Cows.cs = D_13_02_299_Bulls_and_Cows.cs
 		D_14_01_844_ Backspace_String_Compare.cs = D_14_01_844_ Backspace_String_Compare.cs
+		D_14_02_394_Decode_String.cs = D_14_02_394_Decode_String.cs
 	EndProjectSection
 EndProject
 Global
