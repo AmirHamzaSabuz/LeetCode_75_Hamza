@@ -29,7 +29,7 @@ public class D_08_01_98_Validate_Binary_Search_Tree
 }
 
 /*
- public class TreeNode
+public class TreeNode
 {
     public int val;
     public TreeNode left;
@@ -118,8 +118,8 @@ Example 1:
 
 Input: root = [2,1,3]
 Output: true
-Example 2:
 
+Example 2:
 
 Input: root = [5,1,4,null,null,3,6]
 Output: false
