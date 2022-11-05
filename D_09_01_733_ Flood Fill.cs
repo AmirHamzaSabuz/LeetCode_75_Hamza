@@ -16,10 +16,14 @@ public class D_09_01_733_ Flood Fill
             (int row, int col) = queue.Dequeue();
             image[row][col] = newColor;
 
-            if (row > 0 && image[row - 1][col] == oldColor) queue.Enqueue((row - 1, col));
-            if (row < rows - 1 && image[row + 1][col] == oldColor) queue.Enqueue((row + 1, col));
-            if (col > 0 && image[row][col - 1] == oldColor) queue.Enqueue((row, col - 1));
-            if (col < cols - 1 && image[row][col + 1] == oldColor) queue.Enqueue((row, col + 1));
+            if (row > 0 && image[row - 1][col] == oldColor)
+				queue.Enqueue((row - 1, col));
+            if (row < rows - 1 && image[row + 1][col] == oldColor)
+				queue.Enqueue((row + 1, col));
+            if (col > 0 && image[row][col - 1] == oldColor)
+				queue.Enqueue((row, col - 1));
+            if (col < cols - 1 && image[row][col + 1] == oldColor)
+				queue.Enqueue((row, col + 1));
         }
 
         return image;
